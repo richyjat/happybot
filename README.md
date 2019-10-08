@@ -53,10 +53,7 @@ While I understand that making this whole bot work in its entirety may be imprac
 # Donate
 While it's perfectly optional, if you like what I do and want to support me feel free to buy my a pizza:
 
-Patreon: https://www.patreon.com/JRoy
 
-PayPal.me: https://www.paypal.me/JoshuaRoy1
-
-Bitcoin: `32J2AqJBDY1VLq6wfZcLrTYS8fCcHHVDKD`
+PayPal.me: https://www.paypal.me/richyjat
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]()
